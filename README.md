@@ -6,7 +6,7 @@
  
  It is used for ankidroid to load data into ankidroid from this app. For more [Load hanzi data offline](https://github.com/infinyte7/Anki-xiehanzi/blob/master/Load%20hanzi%20data%20offline.md).
   
- ## Install app 
+ ## Download & Install app 
  Download app from following github url. The legal disclaimers are in the LICENSE file apply to these releases apk as well: <b>there is no warranty for this app, to the extent permitted by applicable law.</b>
  
  [Android Web Server](https://github.com/infinyte7/AndroidWebServer/blob/master/app/release/androidwebserver.07.00.00r-g.apk?raw=true)
