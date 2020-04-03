@@ -2,7 +2,7 @@
  A simple web server with cors and loopback ip configuration for android devices.
  
  This project is forked from existing project. Check [lWS](https://github.com/mvbasov/lWS)
- [License](https://github.com/infinyte7/AndroidWebServer/blob/master/LICENSE) file included. 
+ <br>[License](https://github.com/infinyte7/AndroidWebServer/blob/master/LICENSE) file included. 
  
  It is used for ankidroid to load data into ankidroid from this app. For more [].
  
