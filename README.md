@@ -16,8 +16,10 @@
  2. Import this to [android studio](https://developer.android.com/studio/install) 
  3. Generate Signed Apk. 
  
- ## Open Source Credits
+ ## Credits
  https://github.com/mvbasov/lWS
+ <br>
+ Icons made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](www.flaticon.com)
  
  It has features to Allow Cross Orign (cors) and loopback ip.
  
